@@ -11,6 +11,8 @@ Conceitos
 1. Navegation Drawer
 2. Fragments
 3. RecyclerView
+4. SQLiteOpenHelper
+5. ROOM
 
 NOTA: App desenvolvido durante curso "Desenvolvimento de Aplicativos Android usando Kotlin" do
 professor Gabriel Ferrari Ceron - Udemy
